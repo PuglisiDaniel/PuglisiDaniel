@@ -1,9 +1,6 @@
-- 👋 Olá, Eu sou @PuglisiDaniel
-- 👀 Eu estou itneressado em programação web e outras áreas ligadas a programação 
-- 🌱 Atualmente estou cursando o bacharelado interdisciplinar em ciência e tecnolgoia na UNIFESP e estou aprendendo mais sobre a área de desenvolvimento web( Node.js, ReactJS, CSS, PHP, typescript...)
-- 📫 Você pode entrar em contato comigo através do meu email pessoal danielpuglisi0@gmail.com ou institucional puglisi@unifesp.br
+Olá 👋
 
-<!---
-PuglisiDaniel/PuglisiDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Carlos Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuglisiDaniel&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/PuglisiDaniel) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuglisiDaniel&theme=solarized-light&layout=compact)](https://github.com/PuglisiDaniel?tab=repositories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PuglisiDaniel&repo=Site-web-programming-class&theme=solarized-light)](https://github.com/PuglisiDaniel/Site-web-programming-class)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PuglisiDaniel&repo=ProjetosAulasJS&theme=solarized-light)](https://github.com/PuglisiDaniel/ProjetosAulasJS)
