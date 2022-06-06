@@ -1,6 +1,6 @@
 Olá, tudo bem? 👋
 
-[![PuglisiDaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuglisiDaniel&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/PuglisiDaniel)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuglisiDaniel&theme=solarized-light&layout=compact)](https://github.com/PuglisiDaniel?tab=repositories)
+[![PuglisiDaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuglisiDaniel&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/PuglisiDaniel) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuglisiDaniel&theme=solarized-light&layout=compact)](https://github.com/PuglisiDaniel?tab=repositories)
 
 
 
