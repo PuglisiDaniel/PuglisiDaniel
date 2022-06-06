@@ -5,8 +5,8 @@ Olá, tudo bem? 👋
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PuglisiDaniel&repo=ProjetosAulasJS&theme=solarized-light)](https://github.com/PuglisiDaniel/ProjetosAulasJS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PuglisiDaniel&repo=appLanterna&theme=solarized-light)](https://github.com/PuglisiDaniel/ProjetosAulasJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PuglisiDaniel&repo=appLanterna&theme=solarized-light)](https://github.com/PuglisiDaniel/appLanterna)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PuglisiDaniel&repo=Pagina-Responsiva-css&theme=solarized-light)](https://github.com/PuglisiDaniel/ProjetosAulasJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PuglisiDaniel&repo=Pagina-Responsiva-css&theme=solarized-light)](https://github.com/PuglisiDaniel/Pagina-Responsiva-css)
 
 
